@@ -3,7 +3,7 @@
  
 ## running: python 103e6 
  
-![](https://github.com/weider938/rtlsdr-spectrum/blob/master/src/spectrum2.PNG)
+![](https://github.com/weider938/rtlsdr-spectrum/blob/master/src/spectrum1.PNG)
 
 ### Modules:
     
