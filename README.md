@@ -1,5 +1,5 @@
 # rtlsdr spectrum
- Using RTL-SDR Dongle to watching spectrum, some DSP...
+ Using RTL-SDR Dongle to watching spectrum, some python, some DSP...
  
 ## running: python 103e6 
  
