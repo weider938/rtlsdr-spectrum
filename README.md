@@ -15,7 +15,5 @@
                           on Linux (Ubuntu):
        1. sudo apt install librtlsdr
     
-       
-![](https://github.com/weider938/rtlsdr-spectrum/blob/master/src/spectrum1.PNG)
 
 ![](https://github.com/weider938/rtlsdr-spectrum/blob/master/src/spectrum2.PNG)
