@@ -1,9 +1,9 @@
 # rtlsdr spectrum
  Using RTL-SDR Dongle to watching spectrum, some DSP...
 ### Modules:
-
-    + pyrtlsdr (pip install pyrtlsdr, https://pypi.org/project/pyrtlsdr/#files)
+    
     + numpy (pip install numpy)
+    + pyrtlsdr (pip install pyrtlsdr, https://pypi.org/project/pyrtlsdr/#files)
     + pyqtgraph (pip install pyqtgraph, https://pypi.org/project/pyqtgraph/#files)
     
 ## pyrtlsdr:
