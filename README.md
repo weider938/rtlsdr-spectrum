@@ -1,8 +1,10 @@
 # rtlsdr spectrum
  Using RTL-SDR Dongle to watching spectrum, some DSP...
  
-## Run: python 103e6 
+## running: python 103e6 
  
+![](https://github.com/weider938/rtlsdr-spectrum/blob/master/src/spectrum2.PNG)
+
 ### Modules:
     
     + numpy (pip install numpy)
@@ -18,5 +20,5 @@
                           on Linux (Ubuntu):
        1. sudo apt install librtlsdr
     
-
-![](https://github.com/weider938/rtlsdr-spectrum/blob/master/src/spectrum2.PNG)
+## pyqtgraph:
+     Visit: http://www.pyqtgraph.org/
