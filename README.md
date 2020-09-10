@@ -1,5 +1,8 @@
 # rtlsdr spectrum
  Using RTL-SDR Dongle to watching spectrum, some DSP...
+ 
+##Run: python 103e6 
+ 
 ### Modules:
     
     + numpy (pip install numpy)
