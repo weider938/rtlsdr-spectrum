@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+# Author: U.A.V.
+# 2020-09
 import sys
 import time
 import numpy as np
