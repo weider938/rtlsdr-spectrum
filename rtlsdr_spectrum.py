@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 # Author: U.A.V.
+# License: MIT
 # 2020-09
 import sys
 import time
