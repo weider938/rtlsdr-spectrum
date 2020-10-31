@@ -3,7 +3,7 @@
  
 ## running: python rtlsdr_spectrum.py 103e6 
  
-![](https://github.com/weider938/rtlsdr-spectrum/blob/master/src/spectrum1.PNG)
+![](https://github.com/uav-profile/rtlsdr-spectrum/blob/master/src/spectrum1.PNG)
 
 ### Modules:
     
